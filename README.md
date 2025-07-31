@@ -1,5 +1,5 @@
 # ThreatWatch360
- real-Time cybersecurity threat Detection
+ A real-Time cybersecurity threat Detection
 ThreatWatch360 is a beginner-friendly, real-time threat detection and alerting system designed to simulate the core functions of a SOC (Security Operations Center). Built with Python and Streamlit, it helps users monitor, analyze, and visualize alerts using a clean dashboard interface.
 
 🚀 Features
